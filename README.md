@@ -139,12 +139,12 @@ An executive-style, single-page dashboard built for leadership consumption:
 - Slicers for Business Unit, Severity, and Risk Category, enabling self-service exploration
 
 ![Power BI dashboard](./assets/screenshot12.png)
-*(Dashboard screenshot — final formatting pass in progress, to be added.)*
+*(Dashboard screenshot)*
 
 A short walkthrough of the dashboard using the slicers is available here:
 
 [Dashboard demo video](./assets/video1.mp4)
-*(To be added.)*
+
 
 ---
 
